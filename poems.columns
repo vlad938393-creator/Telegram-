@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"author_id","INTEGER","1","1","0"
+"title","STRING","35","0","0"
+"text","STRING","639","0","0"
+"keywords","STRING","79","0","0"
